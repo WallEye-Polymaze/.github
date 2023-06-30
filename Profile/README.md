@@ -1,4 +1,4 @@
-# WALL-Eye: 🤖
+# Wall-Eye: 🤖
 A Maze Solver Robot based on IR array to follow the line then optimaze it to solve the maze while detecing the wanted colors using color sensor.
 
 <img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/Picture.jpeg" alt="WALL-EYE" width="500" height="500">
@@ -14,7 +14,6 @@ A Maze Solver Robot based on IR array to follow the line then optimaze it to sol
 - COLOR SENSOR: TCS34725
 - Batteries: 11.4-12v
 - RGB Led
-- Jumpers 
 
 More Deteils:
 
@@ -35,7 +34,7 @@ The integration of a PID controller assists in maintaining the robot's alignment
 
 Codes:
 ============
-- Mian Code of Line Follower + Optimazation in Wall-E Repository/ Dev Branche
-- Components code in Wall-E Repository/ Main Branche
+- Main Code of Line Follower + Optimazation in Wall-Eye Repository/ Dev Branche
+- Components code in Wall-EyeRepository/ Main Branche
 - Callibration of IRs in Test Repository
 
