@@ -1,20 +1,23 @@
-Wall-Eye: 🤖
+# Wall-Eye: 🤖
 
 A Maze Solver Robot based on IR array to follow the line, then optimize it to solve the maze while detecting the desired colors using a color sensor. 🚀
 
 <img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/Picture.jpeg" alt="WALL-EYE" width="500" height="500">
 
 Components:
-ESP32 microcontroller 🕹️
-IR array (QTR-8RC) 📡
-L298N Motor Driver 🚦
-LM2595 voltage regulator 🔌
-N20 Motors 🎚️
-OLED Display 🖥️
-COLOR SENSOR: TCS34725 🌈
-Batteries: 11.4-12V 🔋
-RGB Led 💡
+============
+-ESP32 microcontroller 🕹️
+-IR array (QTR-8RC) 📡
+-L298N Motor Driver 🚦
+-LM2595 voltage regulator 🔌
+-N20 Motors 🎚️
+-OLED Display 🖥️
+-COLOR SENSOR: TCS34725 🌈
+-Batteries: 11.4-12V 🔋
+-RGB Led 💡
+
 More Details:
+============
 ESP32 microcontroller: Serves as the central processing unit, coordinating the actions of the system and enabling wireless communication capabilities. 🎛️
 IR array: Comprised of 8 infrared sensors, with 4 sensors (D3, D4, D5, D6) used in the PID controller for precise centering of the robot within the black path. The remaining sensors, along with the 3 separate infrared sensors, are employed for detecting directions. 📡
 The L298N motor driver: It offers a dual H-bridge configuration, allowing it to control the speed and direction of two DC motors independently. 🚦
@@ -27,8 +30,9 @@ The LSRB algorithm serves as the navigation strategy for traversing the maze. Th
 The integration of a PID controller assists in maintaining the robot's alignment within the black path, enhancing its stability and accuracy during maze traversal. ⚙️
 
 Codes:
-Main Code of Line Follower + Optimization in Wall-Eye Repository/ Dev Branch 🗃️
-Component code in Wall-Eye Repository/ Main Branch 🧩
-Calibration of IRs in Test Repository 📊
+============
+-Main Code of Line Follower + Optimization 
+-Component Test codes
+-Calibration of IRs 
 
  
