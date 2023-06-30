@@ -1,6 +1,6 @@
 # Wall-Eye: 🤖
 
-A Maze Solver Robot based on IRs array to follow the line using PID with optimization while detecting and displaying specific colors  🚀
+A Maze Solver Robot based on IRs array to follow the line using PID control with decision optimization while detecting and displaying specific colors we made it for POLYMAZE Competition held in Algiers organised by SPARK-VIC ENP🚀
 
 <img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/Picture.jpeg" alt="WALL-EYE" width="500" height="500">
 
