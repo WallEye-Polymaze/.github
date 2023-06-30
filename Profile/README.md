@@ -1,5 +1,6 @@
 Wall-Eye: 🤖
 A Maze Solver Robot based on IR array to follow the line, then optimize it to solve the maze while detecting the desired colors using a color sensor. 🚀
+
 <img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/Picture.jpeg" alt="WALL-EYE" width="500" height="500">
 
 Components:
