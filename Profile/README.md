@@ -6,15 +6,15 @@ A Maze Solver Robot based on IR array to follow the line, then optimize it to so
 
 Components:
 ============
--ESP32 microcontroller 🕹️
--IR array (QTR-8RC) 📡
--L298N Motor Driver 🚦
--LM2595 voltage regulator 🔌
--N20 Motors 🎚️
--OLED Display 🖥️
--COLOR SENSOR: TCS34725 🌈
--Batteries: 11.4-12V 🔋
--RGB Led 💡
+- ESP32 microcontroller 🕹️
+- IR array (QTR-8RC) 📡
+- L298N Motor Driver 🚦
+- M2595 voltage regulator 🔌
+- N20 Motors 🎚️
+- OLED Display 🖥️
+- COLOR SENSOR: TCS34725 🌈
+- Batteries: 11.4-12V 🔋
+- RGB Led 💡
 
 More Details:
 ============
@@ -22,6 +22,7 @@ More Details:
 - IR array: Comprised of 8 infrared sensors, with 4 sensors (D3, D4, D5, D6) used in the PID controller for precise centering of the robot within the black - path. The remaining sensors, along with the 3 separate infrared sensors, are employed for detecting directions. 📡
 - The L298N motor driver: It offers a dual H-bridge configuration, allowing it to control the speed and direction of two DC motors independently. 🚦
 - The LM2595 voltage regulator: It provides efficient and reliable DC voltage conversion. 🔌
+  
 Functioning:
 ============
 The autonomous maze-solving robotic system is based on an enhanced line-follower approach, incorporating PID control and intelligent decision-making algorithms. The ESP32 microcontroller acts as the brain of the system, processing data from the sensors and executing the required actions. 🧠
@@ -32,8 +33,8 @@ The integration of a PID controller assists in maintaining the robot's alignment
 
 Codes:
 ============
--Main Code of Line Follower + Optimization 
--Component Test codes
--Calibration of IRs 
+- Main Code of Line Follower + Optimization 
+- Component Test codes
+- Calibration of IRs 
 
  
