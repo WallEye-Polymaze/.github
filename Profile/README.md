@@ -24,7 +24,7 @@ The 3D design done inside of SolidoWorks then 3D printed and assembled.
 
 Shematic:
 ============
-<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/schematic1.png" alt="schematic1" width="400" height="300">
+<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/schematic1.png" alt="schematic1" width="800" height="300">
 
 Assembly:
 ============
