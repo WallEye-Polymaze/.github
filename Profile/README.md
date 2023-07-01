@@ -14,7 +14,7 @@ Components:
 - N20 Motors 🎚️
 - OLED Display 🖥️
 - TCS34725 Color Sensor 🌈
-- Batteries: 12V 🔋
+- 12V Battery 🔋
 - RGB Led 💡
 - Buzzer 🔊
 - Pushbutton 🔘
