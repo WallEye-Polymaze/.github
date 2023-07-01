@@ -2,7 +2,7 @@
 
 A Maze Solver Robot based on IRs array to follow the line using PID control with decision optimization while detecting and displaying specific colors we made it for POLYMAZE Competition held in Algiers organised by SPARK-VIC ENP🚀
 
-<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/Picture.jpeg" alt="WALL-EYE" width="500" height="500">
+<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/Picture.jpeg" alt="WALL-EYE" width="500" >
 
 Components:
 ============
@@ -18,9 +18,13 @@ Components:
   
 Design:
 ============
-The 3D design done inside of Solidoworks then 3D printed and assembled.
+The 3D design done inside of SolidoWorks then 3D printed and assembled.
 
 <img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/design1.png" alt="design1" width="400" > <img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/design2.png" alt="design2" width="400" height="300">
+
+Assembly:
+============
+
 
 More Details:
 ============
