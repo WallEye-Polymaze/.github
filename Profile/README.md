@@ -25,8 +25,7 @@ The 3D design done inside of SolidoWorks then 3D printed and assembled.
 Assembly:
 ============
 
-<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/assembly2.png" alt="design1" height="100" >
-<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/assembly1.png" alt="design1" width="100" >  <img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/assembly3.png" alt="design1" width="100" >
+<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/assembly2.png" alt="design1" height="100" ><img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/assembly1.png" alt="design1" width="100" ><img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/assembly3.png" alt="design1" width="100" >
 
 More Details:
 ============
