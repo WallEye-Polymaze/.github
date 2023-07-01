@@ -40,12 +40,13 @@ More Details:
 - IR array: Comprised of 8 infrared sensors, with 4 sensors (D3, D4, D5, D6) used in the PID controller for precise centering of the robot within the black - path. The remaining sensors, along with the 3 separate infrared sensors, are employed for detecting directions. 📡
 - The L298N motor driver: It offers a dual H-bridge configuration, allowing it to control the speed and direction of two DC motors independently. 🚦
 - The LM2595 voltage regulator: It provides efficient and reliable DC voltage conversion. 🔌
+- The purpose of OLED is to display the precise decision being made. 🖥️
   
 Functioning:
 ============
 The autonomous maze-solving robotic system is based on an enhanced line-follower approach, incorporating PID control and intelligent decision-making algorithms. The ESP32 microcontroller acts as the brain of the system, processing data from the sensors and executing the required actions. 🧠
 
-The LSRB algorithm serves as the navigation strategy for traversing the maze. The robot prioritizes turning left when possible. If turning left is not an option, it proceeds forward. If neither left nor forward is viable, it attempts a right turn. Lastly, if none of these options are available, the robot moves backward. ⬅️⬆️➡️⬇️
+The LSRB algorithm used as the navigation strategy for traversing the maze. The robot prioritizes turning left when possible. If turning left is not an option, it proceeds forward. If neither left nor forward is viable, it attempts a right turn. Lastly, if none of these options are available, the robot moves backward. ⬅️⬆️➡️⬇️
 
 The integration of a PID controller assists in maintaining the robot's alignment within the black path, enhancing its stability and accuracy during maze traversal. ⚙️
 
