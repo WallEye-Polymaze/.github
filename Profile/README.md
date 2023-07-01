@@ -6,15 +6,18 @@ A Maze Solver Robot based on IRs array to follow the line using PID control with
 
 Components:
 ============
-- ESP32 microcontroller 🕹️
-- IR array (QTR-8RC) 📡
+- ESP32-DevKitC V4 Microcontroller 🕹️
+- QTR-8RC IR array 📡
+- TCRT5000 IR Sensor 🔵⚫
 - L298N Motor Driver 🚦
-- M2595 voltage regulator 🔌
+- LM2595 voltage regulator 🔌
 - N20 Motors 🎚️
 - OLED Display 🖥️
-- COLOR SENSOR: TCS34725 🌈
-- Batteries: 11.4-12V 🔋
+- TCS34725 Color Sensor 🌈
+- Batteries: 12V 🔋
 - RGB Led 💡
+- Buzzer 🔊
+- Pushbutton 🔘
   
 Design:
 ============
