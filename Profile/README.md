@@ -22,10 +22,14 @@ The 3D design done inside of SolidoWorks then 3D printed and assembled.
 
 <img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/design1.png" alt="design1" width="400" > <img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/design2.png" alt="design2" width="400" height="300">
 
+Shematic:
+============
+<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/schematic1.png" alt="schematic1" width="400" height="300">
+
 Assembly:
 ============
 
-<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/assembly2.png" alt="design1" height="255" ><img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/assembly1.png" alt="design1" width="200" ><img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/assembly3.png" alt="design1" width="200" >
+<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/assembly2.png" alt="assembly2" height="255" ><img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/assembly1.png" alt="assembly1" width="200" ><img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/assembly3.png" alt="assembly3" width="200" >
 
 More Details:
 ============
