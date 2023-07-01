@@ -19,8 +19,8 @@ Components:
 Design:
 ============
 The 3D design done inside of Solidoworks then 3D printed and assembled.
-<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/design1.png" alt="design1" height="500" >
-<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/design2.png" alt="design2" height="500" >
+<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/design1.png" alt="design1" width="200" >
+<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/design2.png" alt="design2" width="200" >
 
 More Details:
 ============
