@@ -25,6 +25,8 @@ The 3D design done inside of SolidWorks then 3D printed and assembled.
 
 <img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/design1.png" alt="design1" width="400" > <img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/design2.png" alt="design2" width="400" height="300">
 
+<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/SW.png" alt="SW1" width="800">
+
 Shematic:
 ============
 <img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/schematic1.png" alt="schematic1" width="800">
