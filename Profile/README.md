@@ -48,7 +48,10 @@ The autonomous maze-solving robotic system is based on an enhanced line-follower
 
 The LSRB algorithm used as the navigation strategy for traversing the maze. The robot prioritizes turning left when possible. If turning left is not an option, it proceeds forward. If neither left nor forward is viable, it attempts a right turn. Lastly, if none of these options are available, the robot moves backward. ⬅️⬆️➡️⬇️
 
-The integration of a PID controller assists in maintaining the robot's alignment within the black path, enhancing its stability and accuracy during maze traversal. ⚙️
+The integration of a PID controller assists in maintaining the robot's alignment within the black path, enhancing its stability and accuracy during maze traversal along with detecting and displaying the exact colored stickers when the robot cross them. ⚙️🤖🕹️📚
+
+<img src="https://github.com/WallEye-Polymaze/walleye/blob/dev/maze.png" alt="maze" width="800">
+
 
 Codes:
 ============
