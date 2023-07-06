@@ -39,7 +39,7 @@ Assembly:
 More Details:
 ============
 - ESP32 microcontroller: Serves as the central processing unit, coordinating the actions of the system and enabling wireless communication capabilities. 🎛️
-- IR array: Comprised of 8 infrared sensors, with 4 sensors (D3, D4, D5, D6) used in the PID controller for precise centering of the robot within the black - path. The remaining sensors, along with the 3 separate infrared sensors, are employed for detecting directions. 📡
+- IR array: Comprised of 8 infrared sensors, used in the PID controller for precise centering of the robot within the black - path. along with the 3 separate infrared sensors, are employed for detecting directions. 📡
 - The L298N motor driver: It offers a dual H-bridge configuration, allowing it to control the speed and direction of two DC motors independently. 🚦
 - The LM2595 voltage regulator: It provides efficient and reliable DC voltage conversion. 🔌
 - The purpose of OLED is to display the precise decision being made. 🖥️
